@@ -3,7 +3,7 @@ import pandas as pd
 def import_tickers(self,desired_market_cap): 
 
         #update the list by downloading a new one from Nasdaq
-        df_t = pd.read_csv('../DATABASE/nasdaq_screener.csv')
+        df_t = pd.read_csv('/Users/yb97/Desktop/ProgrammingStuff/Github/DATABASE/nasdaq_screener.csv')
         # Filter tickers based on market cap
         tickers = df_t.loc[df_t['Market Cap'] >= desired_market_cap, 'Symbol'].tolist()
         

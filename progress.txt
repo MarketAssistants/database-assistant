@@ -1,0 +1,15 @@
+
+Pending: 
+- HIGHEST PRIORITY: update batch by batch. remove the 6th batch and let is download all again. 
+- store and update the last eps values for each stock 
+- define a similar state check methodology to keep track of database
+
+--add database to make finding support and resistance rewards easier
+
+
+In Progress: 
+
+
+Done: 
+- dynamically check state of DB 
+- store and update the price volume database to a certain date when requested
