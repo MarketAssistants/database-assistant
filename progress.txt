@@ -1,6 +1,13 @@
 
-Pending: 
-- HIGHEST PRIORITY: update batch by batch. remove the 6th batch and let is download all again. 
+Done: 
+ 
+- update batch by batch. remove the 6th batch and let is download all again. 
+
+
+
+In Pgoress:
+---- Please work on the stk_date class which can quickly give you the data corresponding to index or vice-versa
+
 - store and update the last eps values for each stock 
 - define a similar state check methodology to keep track of database
 
