@@ -1,22 +1,18 @@
-
-Done: 
- 
-- update batch by batch. remove the 6th batch and let is download all again. 
+In progress: 
 
 
-
-In Pgoress:
----- Please work on the stk_date class which can quickly give you the data corresponding to index or vice-versa
-
+Pending:
+- Get market and field of stocks
+- get indices data (sp500,DOW) prices and volumes
 - store and update the last eps values for each stock 
 - define a similar state check methodology to keep track of database
-
 --add database to make finding support and resistance rewards easier
-
-
-In Progress: 
-
+ 
 
 Done: 
 - dynamically check state of DB 
 - store and update the price volume database to a certain date when requested
+- Please work on the date secretary class which can quickly give you the data corresponding to index or vice-versa
+- update batch by batch. remove the 6th batch and let is download all again. 
+
+
